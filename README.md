@@ -220,3 +220,5 @@ NDN Resources
 * [ndn-cxx wiki](http://redmine.named-data.net/projects/ndn-cxx/wiki) for security information
 * [NFD wiki](http://redmine.named-data.net/projects/nfd/wiki) for more on the internals of NDN packets and forwarding
 
+-----
+some country data firwarding not working
